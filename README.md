@@ -1,2 +1,2 @@
-# IS-Vje-beMatej
+# IS-VjezbeMatej
 Vježbe iz informacijskih sustava i projekt
